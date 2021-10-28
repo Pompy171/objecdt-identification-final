@@ -1,0 +1,28 @@
+p{
+    border-radius: 20px;
+    border: 3px solid white;
+    width: 300px;
+    margin-top: 10px;
+    height: 30px;
+    text-align: center;
+    background-color: snow;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.back{
+    width: 100px;
+    margin-left: 1400px;
+    margin-bottom: 800;
+}
+
+#status
+{
+font-size: 18px;
+top: 200px;
+}
